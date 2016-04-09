@@ -1,0 +1,5 @@
+1. Fix negative money issue
+
+2. Test the fix
+
+3. Deploy the fix
