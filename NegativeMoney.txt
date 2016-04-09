@@ -3,3 +3,5 @@
 2. Test the fix
 
 3. Deploy the fix
+
+4. Fix published and marked as resolved
